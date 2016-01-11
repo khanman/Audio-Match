@@ -1,0 +1,1724 @@
+Dec 3, 2014 6:36:02 PM AudioFileComparator fingerPrint
+INFO: Trying to get fingerprint for file : /course/cs4500f14/Assignments/A4new/curieuse.wav
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 0
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1.0:3.0:8.0:23.0:42.0:71.0:205.0:428.0:785.0:1611.0 Result :3177.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 16777216
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9.0:19.0:26.0:57.0:110.0:223.0:546.0:989.0:2178.0:4004.0 Result :8161.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 33554432
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5.0:13.0:20.0:47.0:84.0:173.0:295.0:710.0:1306.0:2772.0 Result :5425.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 50331648
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2.0:8.0:14.0:25.0:59.0:107.0:317.0:597.0:1198.0:2309.0 Result :4636.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 67108864
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1.0:10.0:22.0:54.0:66.0:148.0:420.0:753.0:1610.0:2942.0 Result :6026.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 83886080
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3.0:2.0:11.0:23.0:29.0:61.0:201.0:386.0:685.0:1426.0 Result :2827.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 100663296
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11.0:18.0:26.0:56.0:121.0:226.0:625.0:1154.0:2498.0:4615.0 Result :9350.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 117440512
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9.0:17.0:17.0:57.0:118.0:208.0:394.0:910.0:1523.0:3436.0 Result :6689.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 134217728
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8.0:8.0:13.0:27.0:66.0:140.0:299.0:643.0:1257.0:2481.0 Result :4942.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 150994944
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7.0:6.0:14.0:23.0:67.0:126.0:363.0:650.0:1418.0:2626.0 Result :5300.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 167772160
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3.0:8.0:5.0:38.0:60.0:121.0:279.0:602.0:1143.0:2244.0 Result :4503.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 184549376
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7.0:5.0:16.0:28.0:69.0:124.0:290.0:623.0:1319.0:2441.0 Result :4922.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 201326592
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5.0:7.0:13.0:40.0:93.0:156.0:341.0:752.0:1508.0:2865.0 Result :5780.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 218103808
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :0.0:5.0:8.0:16.0:38.0:65.0:163.0:391.0:718.0:1452.0 Result :2856.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 234881024
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7.0:4.0:12.0:36.0:45.0:123.0:307.0:642.0:1350.0:2438.0 Result :4964.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 251658240
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3.0:10.0:14.0:29.0:66.0:120.0:354.0:655.0:1402.0:2536.0 Result :5189.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 268435456
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5.0:5.0:14.0:31.0:66.0:122.0:247.0:593.0:1186.0:2314.0 Result :4583.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 285212672
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7.0:11.0:20.0:36.0:76.0:147.0:420.0:789.0:1519.0:3023.0 Result :6048.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 301989888
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5.0:11.0:18.0:31.0:75.0:133.0:230.0:518.0:951.0:2064.0 Result :4036.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 318767104
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5.0:9.0:7.0:27.0:56.0:111.0:323.0:695.0:1288.0:2403.0 Result :4924.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 335544320
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6.0:1.0:21.0:55.0:92.0:168.0:482.0:944.0:1918.0:3541.0 Result :7228.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 352321536
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5.0:9.0:12.0:32.0:63.0:135.0:274.0:603.0:1078.0:2358.0 Result :4569.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 369098752
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9.0:12.0:23.0:53.0:91.0:173.0:456.0:877.0:1819.0:3511.0 Result :7024.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 385875968
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3.0:6.0:16.0:28.0:64.0:138.0:214.0:512.0:977.0:2098.0 Result :4056.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 402653184
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6.0:10.0:16.0:40.0:66.0:114.0:315.0:752.0:1419.0:2675.0 Result :5413.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 419430400
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2.0:13.0:25.0:41.0:90.0:168.0:429.0:916.0:1721.0:3336.0 Result :6741.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 436207616
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3.0:18.0:8.0:38.0:69.0:131.0:245.0:559.0:944.0:2117.0 Result :4132.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 452984832
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1.0:9.0:26.0:27.0:64.0:170.0:364.0:782.0:1454.0:2876.0 Result :5773.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 469762048
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :21.0:90.0:50.0:182.0:449.0:781.0:1809.0:3448.0:6897.0:13831.0 Result :27558.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 486539264
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :56.0:213.0:222.0:617.0:978.0:1671.0:4230.0:8123.0:16029.0:32482.0 Result :64621.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 503316480
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :484.0:1177.0:1057.0:2006.0:5077.0:9997.0:20840.0:41223.0:82419.0:164788.0 Result :329068.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 520093696
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6783.0:6868.0:8869.0:29887.0:47910.0:102873.0:243503.0:437128.0:896462.0:1801231.0 Result :3581514.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 536870912
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8672.0:9095.0:23505.0:42205.0:109272.0:190173.0:378422.0:788881.0:1546304.0:3084042.0 Result :6180571.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 553648128
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3597.0:9449.0:10850.0:41599.0:65611.0:127974.0:251317.0:520241.0:1058879.0:2086989.0 Result :4176506.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 570425344
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8994.0:14190.0:30956.0:76437.0:92329.0:205163.0:455246.0:864766.0:1810410.0:3610134.0 Result :7168625.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 587202560
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7879.0:11147.0:19589.0:51890.0:100557.0:192557.0:392661.0:773605.0:1532678.0:3084945.0 Result :6167508.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 603979776
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4241.0:23882.0:39524.0:46399.0:123718.0:223877.0:439971.0:935394.0:1834636.0:3655850.0 Result :7327492.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 620756992
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4932.0:12900.0:32552.0:64100.0:120961.0:235124.0:439114.0:903365.0:1850733.0:3652793.0 Result :7316574.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 637534208
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2380.0:15163.0:42367.0:68069.0:146549.0:289651.0:544597.0:1113672.0:2243732.0:4455662.0 Result :8921842.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 654311424
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7510.0:22661.0:21359.0:81494.0:190288.0:332263.0:702574.0:1365996.0:2717672.0:5515353.0 Result :1.095717E7
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 671088640
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :13439.0:27820.0:26473.0:44274.0:113170.0:218142.0:426714.0:875651.0:1780149.0:3536859.0 Result :7062691.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 687865856
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7994.0:7357.0:16269.0:38028.0:98116.0:192179.0:374302.0:757247.0:1490791.0:2992690.0 Result :5974973.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 704643072
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5436.0:12954.0:25770.0:29746.0:96126.0:181293.0:362518.0:726678.0:1420715.0:2848663.0 Result :5709899.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 721420288
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :634.0:16210.0:31400.0:72365.0:138886.0:249808.0:517958.0:1031303.0:2066552.0:4153348.0 Result :8278464.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 738197504
+Dec 3, 2014 6:36:03 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :15769.0:25858.0:43710.0:56192.0:122761.0:244651.0:515735.0:1059059.0:2088158.0:4182326.0 Result :8354219.0
+Dec 3, 2014 6:36:03 PM FingerPrint scan
+INFO: Processing chunk : 754974720
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9641.0:4249.0:10657.0:34472.0:53112.0:115341.0:246548.0:475395.0:949382.0:1899067.0 Result :3797864.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 771751936
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4719.0:28001.0:21456.0:63776.0:130847.0:231879.0:497219.0:974755.0:1944623.0:3947778.0 Result :7845053.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 788529152
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11361.0:8504.0:32106.0:70038.0:124191.0:244141.0:479186.0:942223.0:1930224.0:3862555.0 Result :7704529.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 805306368
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3601.0:7573.0:40039.0:46472.0:135771.0:252705.0:494421.0:1007961.0:1963985.0:3939144.0 Result :7891672.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 822083584
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5646.0:15511.0:34574.0:51949.0:118507.0:248549.0:460391.0:944668.0:1899179.0:3769020.0 Result :7547994.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 838860800
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3353.0:9666.0:20722.0:50998.0:102008.0:197209.0:403775.0:803692.0:1612655.0:3206093.0 Result :6410171.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 855638016
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8672.0:27557.0:35991.0:89160.0:148823.0:315209.0:604386.0:1228594.0:2450136.0:4898539.0 Result :9807067.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 872415232
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11455.0:11211.0:25453.0:49051.0:91747.0:194273.0:380927.0:763766.0:1531416.0:3055545.0 Result :6114844.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 889192448
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :30191.0:16887.0:17826.0:98382.0:160745.0:316455.0:679297.0:1312873.0:2632440.0:5317933.0 Result :1.0583029E7
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 905969664
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :15929.0:11916.0:36294.0:60000.0:116100.0:245945.0:482274.0:987030.0:1950685.0:3912904.0 Result :7819077.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 922746880
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7366.0:6043.0:17178.0:61047.0:77042.0:162981.0:348379.0:681006.0:1383498.0:2763154.0 Result :5507694.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 939524096
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7876.0:12519.0:23980.0:30923.0:103616.0:182657.0:374729.0:767250.0:1468406.0:2996690.0 Result :5968646.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 956301312
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8440.0:6737.0:17522.0:33839.0:73846.0:125627.0:280596.0:578532.0:1110983.0:2259148.0 Result :4495270.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 973078528
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8535.0:17150.0:28099.0:62397.0:139246.0:236625.0:512308.0:1021104.0:2002330.0:4066281.0 Result :8094075.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 989855744
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :987.0:16181.0:33604.0:70144.0:129075.0:272282.0:583120.0:1117018.0:2254911.0:4497928.0 Result :8975250.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1006632960
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8941.0:7859.0:19611.0:46708.0:88440.0:184457.0:349440.0:711933.0:1424648.0:2850220.0 Result :5692257.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1023410176
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7351.0:16066.0:21858.0:55213.0:115690.0:198024.0:433985.0:847266.0:1679194.0:3395056.0 Result :6769703.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1040187392
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9220.0:14052.0:37903.0:79830.0:141283.0:283090.0:597447.0:1172115.0:2350993.0:4716100.0 Result :9402033.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1056964608
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4280.0:9654.0:18666.0:42870.0:77763.0:183121.0:318571.0:655068.0:1320213.0:2610233.0 Result :5240439.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1073741824
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8655.0:11724.0:28519.0:51057.0:77321.0:194746.0:348396.0:717372.0:1501512.0:2923616.0 Result :5862918.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1090519040
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7464.0:23230.0:20575.0:51955.0:112776.0:205565.0:423560.0:842266.0:1688143.0:3370425.0 Result :6745959.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1107296256
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :12856.0:20228.0:32893.0:88050.0:156594.0:325490.0:614593.0:1248918.0:2515968.0:4990588.0 Result :1.0006178E7
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1124073472
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10569.0:12336.0:28116.0:57411.0:122680.0:229651.0:452459.0:944437.0:1861655.0:3718279.0 Result :7437593.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1140850688
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9751.0:15063.0:41999.0:77838.0:162297.0:310370.0:615020.0:1241486.0:2460902.0:4933363.0 Result :9868089.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1157627904
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :22102.0:19605.0:23778.0:61257.0:149057.0:283157.0:542393.0:1121709.0:2226910.0:4434696.0 Result :8884664.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1174405120
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3082.0:17102.0:15525.0:28372.0:94229.0:153547.0:317913.0:647565.0:1272639.0:2573382.0 Result :5123356.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1191182336
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6655.0:12477.0:16106.0:43728.0:72023.0:136395.0:284979.0:565446.0:1153509.0:2302894.0 Result :4594212.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1207959552
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5388.0:13077.0:15099.0:47594.0:81831.0:176597.0:345838.0:677057.0:1362476.0:2722682.0 Result :5447639.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1224736768
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3486.0:20224.0:36122.0:71034.0:117021.0:239322.0:494768.0:995377.0:2000859.0:3990968.0 Result :7969181.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1241513984
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10935.0:18866.0:25099.0:76007.0:108831.0:247962.0:526533.0:1004985.0:2040005.0:4063324.0 Result :8122547.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1258291200
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11925.0:21422.0:24516.0:66804.0:164074.0:258679.0:552392.0:1116184.0:2220066.0:4463763.0 Result :8899825.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1275068416
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11339.0:13326.0:31218.0:45137.0:121371.0:201527.0:433349.0:889174.0:1731233.0:3480067.0 Result :6957741.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1291845632
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :15170.0:4046.0:36502.0:77576.0:132924.0:261029.0:569300.0:1119199.0:2210803.0:4455109.0 Result :8881658.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1308622848
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8734.0:18828.0:41137.0:59686.0:110118.0:256939.0:507745.0:993799.0:2026975.0:4018416.0 Result :8042377.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1325400064
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7590.0:5331.0:29193.0:80825.0:157660.0:267046.0:545081.0:1099926.0:2185124.0:4379533.0 Result :8757309.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1342177280
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8946.0:14115.0:20053.0:40773.0:90195.0:163979.0:367042.0:691453.0:1408429.0:2827131.0 Result :5632116.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1358954496
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10068.0:21497.0:21836.0:52360.0:114502.0:229790.0:460170.0:939962.0:1856842.0:3699444.0 Result :7406471.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1375731712
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7882.0:16409.0:19120.0:56786.0:83336.0:188961.0:402172.0:774473.0:1560623.0:3136835.0 Result :6246597.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1392508928
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8063.0:20159.0:30472.0:53241.0:104723.0:230656.0:451121.0:914776.0:1842768.0:3628403.0 Result :7284382.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1409286144
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10075.0:16245.0:26518.0:53215.0:119461.0:234046.0:461813.0:950352.0:1883598.0:3761006.0 Result :7516329.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1426063360
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10481.0:15275.0:32581.0:75400.0:142882.0:281317.0:571865.0:1121110.0:2237147.0:4480601.0 Result :8968659.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1442840576
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11905.0:16292.0:17220.0:70956.0:104743.0:224689.0:461516.0:908686.0:1818200.0:3657419.0 Result :7291626.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1459617792
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3315.0:11825.0:11811.0:41694.0:103404.0:197793.0:395728.0:734776.0:1459632.0:2992033.0 Result :5952011.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1476395008
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :16640.0:17724.0:28543.0:55209.0:118498.0:229888.0:471565.0:956406.0:1899533.0:3797976.0 Result :7591982.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1493172224
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7039.0:11807.0:35662.0:55044.0:153785.0:288916.0:545629.0:1104617.0:2197435.0:4377697.0 Result :8777631.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1509949440
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8905.0:12141.0:29029.0:81624.0:115948.0:215341.0:512744.0:960071.0:1949219.0:3947842.0 Result :7832864.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1526726656
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10424.0:18761.0:30467.0:57664.0:146497.0:245848.0:497117.0:1048446.0:2055344.0:4094559.0 Result :8205127.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1543503872
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9303.0:11451.0:32754.0:46454.0:140299.0:252801.0:510065.0:1025021.0:2010905.0:4039944.0 Result :8078997.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1560281088
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7406.0:11029.0:24135.0:48018.0:128355.0:226318.0:479680.0:940089.0:1861995.0:3739590.0 Result :7466615.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1577058304
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3914.0:10601.0:17991.0:35281.0:79848.0:132516.0:277799.0:566010.0:1121264.0:2244882.0 Result :4490106.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1593835520
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5008.0:10711.0:16779.0:32971.0:57881.0:145910.0:288625.0:575333.0:1157099.0:2301649.0 Result :4591966.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1610612736
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10127.0:15347.0:9030.0:65496.0:112330.0:209921.0:464058.0:884685.0:1751849.0:3558748.0 Result :7081591.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1627389952
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4216.0:13340.0:21439.0:46204.0:80740.0:190522.0:400240.0:758993.0:1556099.0:3080051.0 Result :6151844.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1644167168
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4154.0:5965.0:11050.0:21292.0:45735.0:100276.0:190238.0:390144.0:765630.0:1530253.0 Result :3064737.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1660944384
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6998.0:4779.0:20407.0:50124.0:91596.0:195194.0:351039.0:711013.0:1441658.0:2866129.0 Result :5738937.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1677721600
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3846.0:15336.0:24465.0:39864.0:105630.0:174023.0:362353.0:757694.0:1472808.0:2957448.0 Result :5913467.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1694498816
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6813.0:4605.0:28723.0:52259.0:103633.0:201581.0:410311.0:829941.0:1650116.0:3285655.0 Result :6573637.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1711276032
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3166.0:10304.0:16887.0:27612.0:54066.0:114111.0:223931.0:461636.0:913698.0:1830767.0 Result :3656178.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1728053248
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4836.0:7497.0:31422.0:32763.0:94299.0:171342.0:372964.0:733942.0:1433802.0:2879600.0 Result :5762467.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1744830464
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4414.0:24724.0:28114.0:59969.0:131529.0:245502.0:547231.0:1023155.0:2078725.0:4157349.0 Result :8300712.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1761607680
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10223.0:12976.0:48411.0:61813.0:144127.0:285224.0:591552.0:1155809.0:2329610.0:4650530.0 Result :9290275.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1778384896
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1328.0:6948.0:25437.0:64630.0:109706.0:217154.0:441918.0:880675.0:1750180.0:3503434.0 Result :7001410.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1795162112
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :20777.0:14677.0:34623.0:68595.0:116299.0:261385.0:478761.0:1005280.0:2028326.0:4015675.0 Result :8044398.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1811939328
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :13593.0:16050.0:20384.0:51179.0:143097.0:244444.0:490750.0:1005430.0:1965918.0:3964710.0 Result :7915555.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1828716544
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3642.0:18002.0:10029.0:42232.0:64365.0:144843.0:279585.0:560950.0:1125191.0:2253705.0 Result :4502544.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1845493760
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6446.0:6554.0:11340.0:47765.0:83733.0:151687.0:324187.0:605944.0:1228931.0:2482053.0 Result :4948640.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1862270976
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7909.0:12445.0:28602.0:21764.0:61062.0:143232.0:257562.0:546335.0:1084919.0:2151019.0 Result :4314849.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1879048192
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6160.0:14899.0:24664.0:44685.0:99814.0:207373.0:433259.0:811851.0:1646594.0:3311993.0 Result :6601292.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1895825408
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7772.0:14684.0:25887.0:70613.0:149246.0:278963.0:507262.0:1036924.0:2086618.0:4153191.0 Result :8331160.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1912602624
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5815.0:10017.0:46359.0:89539.0:158932.0:292756.0:633765.0:1244828.0:2473937.0:4945083.0 Result :9901031.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1929379840
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9612.0:14490.0:28587.0:59374.0:120259.0:231368.0:468416.0:917724.0:1856046.0:3732021.0 Result :7437897.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1946157056
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9828.0:14848.0:24950.0:60508.0:147454.0:237677.0:499450.0:1019087.0:2008236.0:4040909.0 Result :8062947.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1962934272
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3175.0:11355.0:18973.0:45522.0:91645.0:171358.0:361209.0:700607.0:1406511.0:2827362.0 Result :5637717.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1979711488
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2098.0:7416.0:7596.0:24858.0:62188.0:105109.0:195934.0:424153.0:828856.0:1651262.0 Result :3309470.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 1996488704
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3255.0:14186.0:33846.0:75040.0:144706.0:257941.0:539549.0:1103059.0:2205585.0:4399008.0 Result :8776175.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 2013265920
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9119.0:28488.0:25931.0:80283.0:164904.0:273801.0:588848.0:1193715.0:2366834.0:4747335.0 Result :9479258.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 2030043136
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :14218.0:24916.0:39467.0:86588.0:173471.0:361587.0:732766.0:1463327.0:2949100.0:5858498.0 Result :1.1703938E7
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 2046820352
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7275.0:7067.0:28715.0:48374.0:83621.0:163663.0:370946.0:711900.0:1435361.0:2874442.0 Result :5731364.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 2063597568
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :15891.0:15108.0:34055.0:76932.0:134925.0:292858.0:553771.0:1084422.0:2250041.0:4451157.0 Result :8909160.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 2080374784
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :14166.0:16441.0:15682.0:60473.0:125212.0:231417.0:475761.0:939273.0:1885342.0:3761542.0 Result :7525309.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 2097152000
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4106.0:16351.0:14636.0:52627.0:88148.0:180373.0:335631.0:681817.0:1390274.0:2777635.0 Result :5541598.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 2113929216
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7899.0:20543.0:26186.0:21980.0:76902.0:149560.0:288971.0:628545.0:1218474.0:2429220.0 Result :4868280.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : 2130706432
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1610.0:4412.0:30512.0:63015.0:100295.0:218180.0:445981.0:859716.0:1756327.0:3480065.0 Result :6960113.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : -2147483648
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2415.0:14414.0:13939.0:60816.0:96447.0:200094.0:393777.0:777519.0:1576298.0:3155453.0 Result :6291172.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : -2130706432
+Dec 3, 2014 6:36:04 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9623.0:26734.0:27364.0:77077.0:163319.0:298892.0:597809.0:1210251.0:2389823.0:4837289.0 Result :9638181.0
+Dec 3, 2014 6:36:04 PM FingerPrint scan
+INFO: Processing chunk : -2113929216
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :15092.0:22250.0:15489.0:51677.0:125536.0:254566.0:516376.0:1024315.0:2023594.0:4057804.0 Result :8106699.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -2097152000
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8593.0:9661.0:31198.0:50294.0:101260.0:193334.0:387656.0:810917.0:1597499.0:3187390.0 Result :6377802.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -2080374784
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6664.0:10851.0:9108.0:26357.0:59591.0:104079.0:225612.0:442442.0:872799.0:1776741.0 Result :3534244.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -2063597568
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2762.0:3171.0:13141.0:26531.0:47609.0:103050.0:197311.0:399780.0:809591.0:1600172.0 Result :3203118.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -2046820352
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5508.0:17946.0:31629.0:62873.0:114957.0:221507.0:461723.0:919025.0:1817987.0:3685449.0 Result :7338604.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -2030043136
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6653.0:25726.0:31357.0:88602.0:196057.0:327192.0:655927.0:1347349.0:2648414.0:5314616.0 Result :1.0641893E7
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -2013265920
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :16850.0:7495.0:29224.0:69137.0:156679.0:316713.0:595249.0:1211030.0:2403298.0:4815417.0 Result :9621092.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1996488704
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6163.0:11324.0:11479.0:43915.0:73619.0:144888.0:300517.0:583920.0:1207062.0:2383797.0 Result :4766684.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1979711488
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5732.0:20301.0:29229.0:65923.0:152902.0:263297.0:500495.0:1072513.0:2126668.0:4202420.0 Result :8439480.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1962934272
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9396.0:27124.0:20318.0:68387.0:143071.0:257408.0:560428.0:1125608.0:2217501.0:4428430.0 Result :8857671.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1946157056
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1946.0:17937.0:19728.0:42108.0:84512.0:171298.0:356485.0:693782.0:1386607.0:2806567.0 Result :5580970.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1929379840
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4834.0:11242.0:10582.0:57870.0:83114.0:170013.0:334226.0:643378.0:1314331.0:2647008.0 Result :5276598.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1912602624
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6284.0:20752.0:20091.0:52286.0:83968.0:180293.0:396882.0:763949.0:1544400.0:3095930.0 Result :6164835.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1895825408
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3935.0:19376.0:27548.0:70034.0:146450.0:281449.0:530027.0:1083175.0:2129754.0:4294654.0 Result :8586402.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1879048192
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :13517.0:26482.0:36472.0:75444.0:162475.0:312529.0:649071.0:1317638.0:2579850.0:5158540.0 Result :1.0332018E7
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1862270976
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6466.0:11355.0:23793.0:65341.0:126505.0:227236.0:454398.0:918158.0:1838258.0:3690853.0 Result :7362363.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1845493760
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11819.0:7258.0:53453.0:86063.0:141368.0:336537.0:643228.0:1297756.0:2569096.0:5157824.0 Result :1.0304402E7
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1828716544
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1417.0:9326.0:23557.0:34996.0:65103.0:108455.0:230849.0:490243.0:953183.0:1941549.0 Result :3858678.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1811939328
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7576.0:18766.0:29788.0:92250.0:124448.0:296558.0:576104.0:1122938.0:2283249.0:4547619.0 Result :9099296.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1795162112
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :13916.0:22369.0:30196.0:61145.0:127476.0:274098.0:550969.0:1119625.0:2207238.0:4402565.0 Result :8809597.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1778384896
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8847.0:15865.0:19348.0:61103.0:112420.0:216919.0:428577.0:864992.0:1740990.0:3486600.0 Result :6955661.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1761607680
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1667.0:8563.0:31563.0:45583.0:120204.0:190804.0:400195.0:854041.0:1645773.0:3349205.0 Result :6647598.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1744830464
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4328.0:6506.0:29096.0:28943.0:104524.0:195478.0:340402.0:760546.0:1458029.0:2876129.0 Result :5803981.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1728053248
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4793.0:26510.0:27610.0:88481.0:126468.0:296894.0:581886.0:1160223.0:2352735.0:4651840.0 Result :9317440.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1711276032
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :18289.0:8395.0:27973.0:63680.0:143657.0:267044.0:537615.0:1096268.0:2136696.0:4313456.0 Result :8613073.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1694498816
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2427.0:22696.0:19470.0:66218.0:157783.0:313797.0:589945.0:1148864.0:2289834.0:4637413.0 Result :9248447.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1677721600
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11932.0:17901.0:21200.0:71958.0:150660.0:264709.0:556824.0:1102285.0:2161908.0:4368402.0 Result :8727779.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1660944384
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :273.0:14947.0:17317.0:39048.0:90796.0:170456.0:346710.0:678005.0:1348289.0:2721576.0 Result :5427417.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1644167168
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4911.0:6996.0:40961.0:45631.0:109160.0:235676.0:430860.0:881760.0:1778529.0:3510479.0 Result :7044963.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1627389952
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6861.0:7660.0:19476.0:37942.0:100166.0:168039.0:360832.0:699831.0:1391512.0:2832539.0 Result :5624858.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1610612736
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4158.0:13561.0:31604.0:62562.0:109367.0:212984.0:457619.0:893087.0:1795650.0:3594004.0 Result :7174596.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1593835520
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8461.0:25110.0:38178.0:58389.0:127886.0:262771.0:539151.0:1088651.0:2160320.0:4329806.0 Result :8638723.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1577058304
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4449.0:13797.0:29640.0:54566.0:122293.0:221953.0:461123.0:914295.0:1830676.0:3651800.0 Result :7304592.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1560281088
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10890.0:23530.0:23574.0:61699.0:100299.0:211577.0:502866.0:957254.0:1906039.0:3830619.0 Result :7628347.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1543503872
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7162.0:11553.0:28241.0:70702.0:119591.0:264893.0:515677.0:997078.0:2037903.0:4055510.0 Result :8108310.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1526726656
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3509.0:10927.0:12951.0:36099.0:74126.0:135788.0:272210.0:544271.0:1078809.0:2170966.0 Result :4339656.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1509949440
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3868.0:4148.0:14866.0:30402.0:50213.0:99158.0:189544.0:389260.0:782006.0:1563073.0 Result :3126538.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1493172224
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7494.0:18387.0:22356.0:50205.0:115446.0:216430.0:434557.0:904552.0:1760350.0:3543541.0 Result :7073318.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1476395008
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8069.0:11929.0:16617.0:44752.0:74666.0:157331.0:310833.0:610655.0:1257539.0:2498506.0 Result :4990897.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1459617792
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5243.0:19726.0:41050.0:55634.0:133422.0:245268.0:521708.0:1052021.0:2078170.0:4172862.0 Result :8325104.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1442840576
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3919.0:20372.0:22479.0:69949.0:102045.0:240930.0:464052.0:897524.0:1846015.0:3665269.0 Result :7332554.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1426063360
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9847.0:14955.0:24325.0:49297.0:109092.0:214385.0:417592.0:852013.0:1697993.0:3396865.0 Result :6786364.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1409286144
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5459.0:7808.0:19459.0:28874.0:55019.0:110793.0:235404.0:472115.0:924361.0:1871102.0 Result :3730394.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1392508928
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5139.0:5518.0:30992.0:38638.0:142694.0:222326.0:414318.0:917300.0:1752876.0:3523487.0 Result :7053288.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1375731712
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2440.0:18758.0:26915.0:69963.0:150432.0:297919.0:538542.0:1120390.0:2224955.0:4422987.0 Result :8873301.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1358954496
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :18601.0:10084.0:59097.0:75839.0:187561.0:355342.0:723009.0:1491058.0:2919887.0:5847338.0 Result :1.1687816E7
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1342177280
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9531.0:9438.0:19155.0:87010.0:117162.0:247497.0:471189.0:937740.0:1908191.0:3804708.0 Result :7611621.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1325400064
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9464.0:29074.0:18625.0:51735.0:110368.0:201472.0:434823.0:902262.0:1753989.0:3513868.0 Result :7025680.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1308622848
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :13882.0:14969.0:30177.0:68410.0:138929.0:250262.0:537455.0:1043972.0:2061191.0:4190148.0 Result :8349395.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1291845632
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11865.0:9875.0:33939.0:37681.0:110615.0:193140.0:399070.0:807726.0:1565485.0:3170659.0 Result :6340055.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1275068416
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3513.0:9476.0:32592.0:49979.0:83486.0:183466.0:348545.0:718580.0:1460990.0:2871389.0 Result :5762016.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1258291200
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :13693.0:13278.0:26482.0:32986.0:109105.0:202087.0:399503.0:842065.0:1623663.0:3262449.0 Result :6525311.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1241513984
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :14276.0:11068.0:21136.0:67671.0:140486.0:244010.0:498541.0:981898.0:1969098.0:3988877.0 Result :7937061.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1224736768
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5085.0:40257.0:22863.0:93998.0:178417.0:369403.0:772521.0:1496922.0:2980100.0:5996697.0 Result :1.1956263E7
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1207959552
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4060.0:16628.0:20351.0:53731.0:93702.0:189191.0:389950.0:760156.0:1546660.0:3095139.0 Result :6169568.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1191182336
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7404.0:18546.0:27236.0:57586.0:129496.0:240635.0:487419.0:983398.0:1955199.0:3909131.0 Result :7816050.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1174405120
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8016.0:7942.0:25160.0:45068.0:95695.0:180951.0:354684.0:721779.0:1426012.0:2868759.0 Result :5734066.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1157627904
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10682.0:5811.0:30836.0:69399.0:85639.0:233332.0:461082.0:898875.0:1839019.0:3656784.0 Result :7291459.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1140850688
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :21028.0:14488.0:50485.0:76453.0:157870.0:308183.0:646817.0:1307046.0:2608636.0:5198466.0 Result :1.0389472E7
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1124073472
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :14413.0:18328.0:30827.0:81057.0:128717.0:271580.0:555018.0:1102677.0:2206293.0:4431528.0 Result :8840438.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1107296256
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7183.0:25653.0:30696.0:88719.0:148178.0:286509.0:632460.0:1177336.0:2390397.0:4825547.0 Result :9612678.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1090519040
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5388.0:11153.0:24404.0:43242.0:103086.0:195666.0:381345.0:767706.0:1554265.0:3060324.0 Result :6146579.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1073741824
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :19763.0:18731.0:23790.0:63607.0:136369.0:292496.0:578603.0:1142393.0:2276784.0:4545443.0 Result :9097979.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1056964608
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6495.0:17570.0:18168.0:31926.0:81113.0:164489.0:344506.0:684977.0:1360117.0:2742546.0 Result :5451907.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1040187392
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1454.0:12746.0:10141.0:54299.0:117778.0:198499.0:411262.0:782186.0:1558625.0:3166388.0 Result :6313378.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1023410176
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8117.0:16346.0:18285.0:25138.0:108374.0:165956.0:334197.0:708543.0:1334502.0:2732128.0 Result :5451586.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -1006632960
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4083.0:12918.0:27443.0:46809.0:118156.0:208652.0:414124.0:863119.0:1698593.0:3396287.0 Result :6790184.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -989855744
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8112.0:21996.0:16603.0:88928.0:132353.0:267867.0:509894.0:1022546.0:2088163.0:4159217.0 Result :8315679.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -973078528
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7959.0:3230.0:31994.0:55120.0:109785.0:228448.0:436647.0:883994.0:1762253.0:3513879.0 Result :7033309.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -956301312
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :12782.0:25144.0:23000.0:65397.0:125808.0:279060.0:556535.0:1108112.0:2203356.0:4410088.0 Result :8809282.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -939524096
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6654.0:16158.0:26530.0:53715.0:103884.0:198626.0:388275.0:805785.0:1607099.0:3222164.0 Result :6428890.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -922746880
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7893.0:8824.0:22721.0:40018.0:75247.0:166764.0:338647.0:658693.0:1350993.0:2676241.0 Result :5346041.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -905969664
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :12213.0:9893.0:32774.0:63675.0:150184.0:286660.0:538266.0:1118303.0:2230675.0:4426471.0 Result :8869114.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -889192448
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9843.0:6800.0:33461.0:82656.0:147679.0:286296.0:585218.0:1166019.0:2335567.0:4656761.0 Result :9310300.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -872415232
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :24646.0:14912.0:42667.0:86106.0:174499.0:344972.0:714961.0:1428100.0:2811468.0:5636333.0 Result :1.1278664E7
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -855638016
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8786.0:13830.0:26703.0:37443.0:105081.0:158617.0:353128.0:723423.0:1418570.0:2874042.0 Result :5719623.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -838860800
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3502.0:11401.0:38639.0:71649.0:133692.0:303305.0:533769.0:1080246.0:2193942.0:4352441.0 Result :8722586.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -822083584
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7292.0:23186.0:32617.0:48234.0:141231.0:251283.0:528465.0:1122477.0:2164282.0:4340620.0 Result :8659687.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -805306368
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2753.0:13953.0:22802.0:52343.0:92422.0:197882.0:409932.0:783036.0:1601035.0:3177027.0 Result :6353185.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -788529152
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7131.0:11873.0:22192.0:37552.0:108189.0:192489.0:379779.0:770719.0:1507919.0:3049596.0 Result :6087439.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -771751936
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1197.0:17727.0:28854.0:54216.0:92991.0:197494.0:400547.0:818105.0:1636924.0:3252235.0 Result :6500290.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -754974720
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :14093.0:13357.0:24408.0:68306.0:133052.0:246910.0:520516.0:1006681.0:2030505.0:4097394.0 Result :8155222.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -738197504
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5650.0:22582.0:37052.0:81554.0:176262.0:339020.0:662514.0:1329272.0:2643427.0:5306268.0 Result :1.0603601E7
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -721420288
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11536.0:14619.0:21296.0:60158.0:94485.0:205361.0:429151.0:842568.0:1693526.0:3367104.0 Result :6739804.0
+Dec 3, 2014 6:36:05 PM FingerPrint scan
+INFO: Processing chunk : -704643072
+Dec 3, 2014 6:36:05 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6266.0:42181.0:43786.0:95897.0:193256.0:381962.0:756150.0:1517934.0:3045262.0:6097805.0 Result :1.2180499E7
+Dec 3, 2014 6:36:05 PM AudioFileComparator fingerPrint
+INFO: Trying to get fingerprint for file : /course/cs4500f14/Assignments/A4new/janacek2.wav
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 0
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1.0:1.0:0.0:5.0:5.0:12.0:25.0:44.0:83.0:178.0 Result :354.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 16777216
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :0.0:1.0:4.0:8.0:16.0:34.0:60.0:109.0:232.0:463.0 Result :927.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 33554432
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4.0:3.0:13.0:13.0:31.0:69.0:114.0:259.0:495.0:996.0 Result :1997.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 50331648
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6.0:15.0:16.0:39.0:73.0:139.0:288.0:586.0:1164.0:2370.0 Result :4696.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 67108864
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :14.0:14.0:20.0:49.0:128.0:227.0:420.0:852.0:1746.0:3441.0 Result :6911.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 83886080
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5.0:5.0:35.0:43.0:82.0:176.0:314.0:683.0:1309.0:2593.0 Result :5245.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 100663296
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :12.0:12.0:40.0:102.0:164.0:357.0:729.0:1321.0:2868.0:5575.0 Result :11180.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 117440512
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11.0:25.0:32.0:134.0:193.0:401.0:763.0:1509.0:3092.0:6229.0 Result :12389.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 134217728
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :14.0:29.0:36.0:128.0:238.0:435.0:1047.0:1983.0:3924.0:7978.0 Result :15812.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 150994944
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :19.0:45.0:46.0:156.0:306.0:551.0:1071.0:2263.0:4512.0:8961.0 Result :17930.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 167772160
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :22.0:42.0:108.0:241.0:489.0:763.0:1488.0:3126.0:6357.0:12746.0 Result :25382.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 184549376
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :35.0:43.0:69.0:178.0:367.0:830.0:1537.0:2815.0:6124.0:11903.0 Result :23901.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 201326592
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :40.0:40.0:45.0:250.0:512.0:911.0:1845.0:3744.0:7554.0:14931.0 Result :29872.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 218103808
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :49.0:63.0:149.0:279.0:527.0:1071.0:2314.0:4801.0:9719.0:18873.0 Result :37845.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 234881024
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :23.0:159.0:123.0:391.0:847.0:1672.0:3447.0:6585.0:12447.0:25852.0 Result :51546.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 251658240
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :532.0:1344.0:2770.0:4373.0:10087.0:18141.0:36493.0:76256.0:149489.0:299266.0 Result :598751.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 268435456
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1746.0:3560.0:8137.0:11581.0:23574.0:51212.0:103019.0:210737.0:417470.0:835431.0 Result :1666467.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 285212672
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3879.0:2779.0:8935.0:23126.0:41617.0:82679.0:163984.0:328005.0:658150.0:1313007.0 Result :2626161.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 301989888
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2148.0:6632.0:18440.0:34991.0:49581.0:127795.0:229847.0:461486.0:955385.0:1878347.0 Result :3764652.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 318767104
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3224.0:12664.0:24232.0:46272.0:85095.0:170625.0:359516.0:691707.0:1392453.0:2804371.0 Result :5590159.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 335544320
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8811.0:4205.0:22858.0:49416.0:104147.0:199111.0:400695.0:803351.0:1596525.0:3202470.0 Result :6391589.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 352321536
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2742.0:16634.0:20502.0:53688.0:95059.0:190245.0:383260.0:759096.0:1528400.0:3065667.0 Result :6115293.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 369098752
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :12944.0:14847.0:31502.0:55190.0:107744.0:244252.0:445828.0:924290.0:1852338.0:3676786.0 Result :7365721.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 385875968
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7679.0:12303.0:36865.0:67852.0:166280.0:296172.0:631957.0:1241351.0:2465225.0:4955049.0 Result :9880733.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 402653184
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :13511.0:20802.0:42681.0:91138.0:160823.0:353036.0:660860.0:1327863.0:2702829.0:5373850.0 Result :1.0747393E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 419430400
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9552.0:22100.0:30399.0:50752.0:133652.0:250392.0:487749.0:1001131.0:1982379.0:3979965.0 Result :7948071.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 436207616
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6498.0:7889.0:13525.0:40756.0:77197.0:131810.0:275818.0:561611.0:1123142.0:2241350.0 Result :4479596.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 452984832
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1556.0:9704.0:15294.0:31305.0:64011.0:141086.0:269771.0:543601.0:1086649.0:2152429.0 Result :4315406.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 469762048
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6775.0:11123.0:19098.0:37868.0:80692.0:143166.0:322435.0:612864.0:1238141.0:2504960.0 Result :4977122.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 486539264
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :12182.0:12041.0:24115.0:57149.0:102984.0:209147.0:418500.0:839131.0:1671728.0:3349788.0 Result :6696765.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 503316480
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5213.0:7123.0:37540.0:73854.0:113591.0:241800.0:443588.0:926910.0:1862671.0:3681031.0 Result :7393321.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 520093696
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7244.0:9406.0:24637.0:43452.0:119541.0:205696.0:387925.0:818635.0:1603574.0:3205956.0 Result :6426066.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 536870912
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4774.0:13236.0:14434.0:41271.0:122046.0:200645.0:404646.0:818068.0:1609499.0:3253085.0 Result :6481704.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 553648128
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1556.0:18031.0:31893.0:57525.0:131446.0:228134.0:473248.0:961552.0:1879570.0:3788302.0 Result :7571257.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 570425344
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10315.0:16554.0:16504.0:61193.0:133652.0:225444.0:494497.0:983338.0:1920145.0:3894851.0 Result :7756493.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 587202560
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9234.0:4813.0:26552.0:52871.0:101629.0:202885.0:388445.0:810282.0:1600598.0:3174618.0 Result :6371927.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 603979776
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1418.0:15779.0:20817.0:41896.0:73041.0:155606.0:310271.0:594861.0:1216922.0:2446791.0 Result :4877402.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 620756992
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3532.0:15448.0:18792.0:46816.0:120998.0:206104.0:429334.0:858272.0:1675128.0:3380250.0 Result :6754674.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 637534208
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5587.0:17571.0:30527.0:60548.0:139928.0:264099.0:536676.0:1057274.0:2112613.0:4231958.0 Result :8456781.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 654311424
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :14320.0:11705.0:35391.0:70244.0:138042.0:296883.0:545979.0:1148337.0:2284439.0:4520260.0 Result :9065600.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 671088640
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6983.0:23269.0:39927.0:105227.0:197771.0:370378.0:801050.0:1571863.0:3112276.0:6289159.0 Result :1.2517903E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 687865856
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9769.0:20881.0:44350.0:83164.0:192125.0:335020.0:709579.0:1411799.0:2806933.0:5646023.0 Result :1.1259643E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 704643072
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2773.0:9394.0:21554.0:40082.0:74283.0:167632.0:349191.0:664950.0:1332474.0:2640476.0 Result :5302809.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 721420288
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9155.0:21753.0:25428.0:57826.0:124114.0:246986.0:490105.0:987194.0:1962955.0:3919799.0 Result :7845315.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 738197504
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7571.0:23749.0:20130.0:63344.0:121091.0:257284.0:490616.0:986017.0:1967764.0:3918078.0 Result :7855644.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 754974720
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8574.0:12980.0:21404.0:43877.0:106659.0:216611.0:407391.0:838653.0:1648171.0:3273119.0 Result :6577439.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 771751936
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2833.0:8049.0:20069.0:38141.0:69915.0:139125.0:280488.0:565431.0:1132989.0:2270531.0 Result :4527571.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 788529152
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2044.0:13543.0:19341.0:43414.0:85679.0:169801.0:347788.0:675086.0:1358210.0:2725160.0 Result :5440066.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 805306368
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6800.0:10339.0:12989.0:39616.0:73419.0:175965.0:328456.0:642203.0:1298442.0:2574363.0 Result :5162592.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 822083584
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5784.0:6909.0:17511.0:33135.0:75085.0:130830.0:261873.0:536492.0:1071542.0:2152063.0 Result :4291224.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 838860800
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9771.0:10961.0:25581.0:59647.0:110631.0:207734.0:412760.0:841136.0:1688728.0:3347377.0 Result :6714326.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 855638016
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3197.0:18736.0:21152.0:58839.0:112704.0:238278.0:471040.0:924873.0:1847222.0:3705067.0 Result :7401108.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 872415232
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1121.0:8845.0:18093.0:43775.0:87490.0:170703.0:332083.0:685180.0:1343309.0:2696192.0 Result :5386791.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 889192448
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4124.0:9460.0:16105.0:26569.0:53591.0:91443.0:188593.0:399359.0:795046.0:1582773.0 Result :3167063.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 905969664
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :840.0:3901.0:18791.0:29884.0:53566.0:121934.0:237909.0:461312.0:936081.0:1863531.0 Result :3727749.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 922746880
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5481.0:22032.0:14764.0:36186.0:108044.0:179019.0:374510.0:747987.0:1470517.0:2986257.0 Result :5944797.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 939524096
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :808.0:9618.0:18688.0:42537.0:78760.0:143564.0:284084.0:575018.0:1146523.0:2297372.0 Result :4596972.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 956301312
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1593.0:5061.0:10415.0:23813.0:50227.0:100747.0:208923.0:404563.0:789293.0:1599820.0 Result :3194455.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 973078528
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4119.0:15279.0:23081.0:39047.0:113923.0:193581.0:377134.0:775747.0:1528841.0:3058194.0 Result :6128946.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 989855744
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6566.0:9375.0:23536.0:39803.0:83707.0:168520.0:343683.0:675569.0:1366194.0:2741603.0 Result :5458556.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1006632960
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8816.0:9513.0:29684.0:51845.0:108125.0:211208.0:432502.0:871338.0:1734164.0:3477687.0 Result :6934882.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1023410176
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5919.0:16130.0:25156.0:53318.0:95107.0:208487.0:394956.0:806681.0:1615825.0:3210423.0 Result :6432002.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1040187392
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6123.0:8715.0:27661.0:57227.0:89964.0:180866.0:374553.0:739772.0:1484857.0:2978303.0 Result :5948041.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1056964608
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :12979.0:9138.0:19574.0:65951.0:113256.0:222239.0:441139.0:899196.0:1795985.0:3583224.0 Result :7162681.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1073741824
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :15582.0:23073.0:48748.0:68807.0:136330.0:302657.0:598186.0:1221283.0:2450443.0:4860615.0 Result :9725724.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1090519040
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9399.0:29560.0:36826.0:100799.0:145749.0:320033.0:668610.0:1314282.0:2657000.0:5304116.0 Result :1.0586374E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1107296256
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9856.0:16002.0:28457.0:46926.0:127326.0:212283.0:456978.0:897413.0:1760090.0:3585205.0 Result :7140536.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1124073472
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8509.0:26469.0:34716.0:135385.0:204047.0:438960.0:892357.0:1700544.0:3452116.0:6956152.0 Result :1.3849255E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1140850688
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :13366.0:40213.0:103227.0:217500.0:306346.0:680873.0:1331090.0:2702425.0:5526051.0:1.0884184E7 Result :2.1805275E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1157627904
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :13659.0:26344.0:55397.0:149096.0:289396.0:537582.0:1053134.0:2070453.0:4200189.0:8398777.0 Result :1.6794027E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1174405120
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :29223.0:29648.0:66010.0:103011.0:170065.0:400379.0:777899.0:1634333.0:3271701.0:6471223.0 Result :1.2953492E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1191182336
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1829.0:23988.0:59886.0:53936.0:185236.0:328737.0:674535.0:1389601.0:2667644.0:5385836.0 Result :1.0771228E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1207959552
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10456.0:19063.0:58780.0:92033.0:191656.0:328970.0:733767.0:1428591.0:2825766.0:5756025.0 Result :1.1445107E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1224736768
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3764.0:19363.0:30199.0:58542.0:209387.0:365168.0:706138.0:1374182.0:2704974.0:5445644.0 Result :1.0917361E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1241513984
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :55824.0:53408.0:146098.0:225927.0:531451.0:1028452.0:1955450.0:4060637.0:8104693.0:1.6085231E7 Result :3.2247171E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1258291200
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10364.0:45634.0:77079.0:180481.0:306663.0:622293.0:1259191.0:2469348.0:4967603.0:9996974.0 Result :1.993563E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1275068416
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :41866.0:21042.0:61716.0:102275.0:299083.0:506127.0:1021838.0:2077779.0:4090867.0:8187988.0 Result :1.6410581E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1291845632
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :23898.0:20172.0:64429.0:100922.0:231008.0:460247.0:872759.0:1811930.0:3566285.0:7151534.0 Result :1.4303184E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1308622848
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11354.0:27581.0:52334.0:144310.0:218113.0:398541.0:867562.0:1781376.0:3536681.0:7083043.0 Result :1.4120895E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1325400064
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :30553.0:16261.0:26702.0:132545.0:229554.0:506928.0:1000016.0:1973532.0:3906706.0:7812165.0 Result :1.5634962E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1342177280
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :25083.0:54270.0:25091.0:117984.0:306043.0:477898.0:1062578.0:2106603.0:4055253.0:8317850.0 Result :1.6548653E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1358954496
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :20099.0:53568.0:70506.0:295597.0:432161.0:870379.0:1833457.0:3492771.0:7104382.0:1.4267651E7 Result :2.8440571E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1375731712
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :21076.0:22094.0:57339.0:124229.0:300311.0:497046.0:1004037.0:2075211.0:4077560.0:8161722.0 Result :1.6340625E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1392508928
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9536.0:21374.0:36758.0:113108.0:208097.0:379959.0:798751.0:1584402.0:3153651.0:6324601.0 Result :1.2630237E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1409286144
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7284.0:20510.0:32533.0:82385.0:101636.0:234991.0:473419.0:928174.0:1904274.0:3786454.0 Result :7571660.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1426063360
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6256.0:7199.0:44656.0:77896.0:190829.0:297012.0:655789.0:1304466.0:2551424.0:5196737.0 Result :1.0332264E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1442840576
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2115.0:32744.0:40167.0:80913.0:166062.0:372450.0:695461.0:1416044.0:2839903.0:5630843.0 Result :1.1276702E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1459617792
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10284.0:19630.0:55098.0:111621.0:195213.0:371998.0:806895.0:1584953.0:3139776.0:6345901.0 Result :1.2641369E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1476395008
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9321.0:24864.0:39450.0:97256.0:186606.0:349950.0:717937.0:1417610.0:2858482.0:5741807.0 Result :1.1443283E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1493172224
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2518.0:10781.0:56515.0:83274.0:190392.0:338395.0:738443.0:1438680.0:2814284.0:5716256.0 Result :1.1389538E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1509949440
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8144.0:8438.0:62558.0:84966.0:194230.0:324220.0:719648.0:1415890.0:2775796.0:5642692.0 Result :1.1236582E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1526726656
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :20454.0:21962.0:27705.0:60115.0:144062.0:320617.0:580085.0:1202772.0:2397761.0:4765393.0 Result :9540926.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1543503872
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :12813.0:12486.0:18501.0:48340.0:87965.0:181372.0:354162.0:732624.0:1448498.0:2889164.0 Result :5785925.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1560281088
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1656.0:10795.0:13576.0:39168.0:60773.0:138103.0:262869.0:528634.0:1063897.0:2134819.0 Result :4254290.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1577058304
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9721.0:16881.0:21207.0:56107.0:100410.0:217153.0:420983.0:837883.0:1692108.0:3374778.0 Result :6747231.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1593835520
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3362.0:8389.0:27005.0:53330.0:101684.0:204260.0:387544.0:807334.0:1613850.0:3211176.0 Result :6417934.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1610612736
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5813.0:13081.0:18673.0:38117.0:81238.0:184810.0:347630.0:686548.0:1402613.0:2764230.0 Result :5542753.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1627389952
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2476.0:4348.0:16164.0:29910.0:54745.0:97471.0:203851.0:412115.0:815484.0:1656082.0 Result :3292646.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1644167168
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6470.0:10538.0:10431.0:42665.0:72639.0:168578.0:322303.0:626202.0:1268811.0:2527915.0 Result :5056552.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1660944384
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3401.0:7601.0:26355.0:47201.0:79509.0:182542.0:349969.0:715587.0:1420380.0:2801772.0 Result :5634317.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1677721600
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2606.0:10625.0:20259.0:36897.0:66301.0:117452.0:248191.0:504983.0:1013727.0:2039200.0 Result :4060241.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1694498816
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6770.0:8230.0:23507.0:45637.0:93784.0:180839.0:366150.0:735813.0:1484910.0:2964539.0 Result :5910179.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1711276032
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6214.0:10618.0:26759.0:52382.0:85098.0:202066.0:401875.0:795663.0:1604702.0:3176768.0 Result :6362145.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1728053248
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7911.0:10738.0:16703.0:39138.0:62886.0:135381.0:293348.0:566010.0:1136073.0:2283736.0 Result :4551924.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1744830464
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9121.0:12330.0:13420.0:32427.0:76079.0:143383.0:284156.0:588075.0:1155843.0:2314104.0 Result :4628938.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1761607680
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2057.0:12661.0:20700.0:41327.0:80987.0:143319.0:304171.0:612391.0:1214820.0:2442769.0 Result :4875202.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1778384896
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3809.0:19541.0:23329.0:61344.0:118475.0:207969.0:456472.0:890925.0:1784108.0:3606684.0 Result :7172656.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1795162112
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5149.0:27011.0:66087.0:103171.0:226112.0:432392.0:877363.0:1750540.0:3508168.0:7021716.0 Result :1.4017709E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1811939328
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1378.0:27372.0:30667.0:81883.0:148982.0:300830.0:630324.0:1219514.0:2455633.0:4937459.0 Result :9834042.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1828716544
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1939.0:29828.0:49676.0:94215.0:186470.0:365515.0:759546.0:1487563.0:2981468.0:5999906.0 Result :1.1956126E7
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1845493760
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4508.0:22644.0:35158.0:69795.0:135131.0:310046.0:593360.0:1176639.0:2359357.0:4703978.0 Result :9410616.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1862270976
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :13674.0:18590.0:32888.0:79417.0:137595.0:241576.0:527660.0:1038549.0:2075769.0:4198472.0 Result :8364190.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1879048192
+Dec 3, 2014 6:36:08 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11357.0:7313.0:10998.0:29876.0:80392.0:145908.0:287672.0:598134.0:1163181.0:2322095.0 Result :4656926.0
+Dec 3, 2014 6:36:08 PM FingerPrint scan
+INFO: Processing chunk : 1895825408
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5228.0:9801.0:7762.0:35922.0:76603.0:132602.0:288768.0:553275.0:1081413.0:2214459.0 Result :4405833.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 1912602624
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :946.0:24885.0:34878.0:79865.0:145966.0:218789.0:528196.0:1058810.0:2124407.0:4260277.0 Result :8477019.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 1929379840
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6045.0:34577.0:57282.0:93389.0:172699.0:322879.0:606837.0:1383090.0:2664755.0:5406609.0 Result :1.0748162E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 1946157056
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9020.0:13698.0:48493.0:77195.0:186138.0:319824.0:717694.0:1431218.0:2783429.0:5656671.0 Result :1.124338E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 1962934272
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9201.0:54986.0:65090.0:112421.0:241177.0:472216.0:1043898.0:2046221.0:4129295.0:8139972.0 Result :1.6314477E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 1979711488
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :20573.0:25794.0:52536.0:100795.0:214198.0:409136.0:889601.0:1709250.0:3397178.0:6829359.0 Result :1.364842E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 1996488704
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :18806.0:27205.0:50306.0:108763.0:231457.0:482074.0:866287.0:1772015.0:3528586.0:7065035.0 Result :1.4150534E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 2013265920
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :26291.0:28138.0:61457.0:166269.0:263724.0:526091.0:1101333.0:2352032.0:4554857.0:9173331.0 Result :1.8253523E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 2030043136
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :14944.0:44326.0:71966.0:141816.0:342749.0:535384.0:1194888.0:2329645.0:4624049.0:9392723.0 Result :1.869249E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 2046820352
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :30360.0:49271.0:95379.0:186720.0:313839.0:653291.0:1160919.0:2308314.0:4739902.0:9541730.0 Result :1.9079725E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 2063597568
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :24895.0:29430.0:38247.0:127130.0:244790.0:467535.0:777870.0:1742183.0:3416947.0:6921489.0 Result :1.3790516E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 2080374784
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5919.0:30874.0:57579.0:130854.0:270152.0:492734.0:1054106.0:2109402.0:4085841.0:8247360.0 Result :1.6484821E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 2097152000
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :24911.0:47052.0:66516.0:150166.0:278528.0:564835.0:1110214.0:2270145.0:4507153.0:8978264.0 Result :1.7997784E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 2113929216
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :14549.0:20128.0:63558.0:133698.0:232299.0:485693.0:954020.0:1951734.0:3906610.0:7758608.0 Result :1.5520897E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : 2130706432
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :17654.0:26136.0:52575.0:145071.0:168700.0:437848.0:845167.0:1686209.0:3317255.0:6731013.0 Result :1.3427628E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -2147483648
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10602.0:32114.0:38759.0:67270.0:158714.0:307672.0:549921.0:1206454.0:2408113.0:4758740.0 Result :9538359.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -2130706432
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :27839.0:39567.0:43165.0:99635.0:185448.0:447352.0:942920.0:1937814.0:3731300.0:7426722.0 Result :1.4881762E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -2113929216
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :15751.0:27362.0:65612.0:74127.0:204558.0:434501.0:892338.0:1791002.0:3391853.0:6965375.0 Result :1.3862479E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -2097152000
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9400.0:50171.0:49925.0:110385.0:337196.0:460479.0:1003214.0:2040001.0:4075678.0:8210223.0 Result :1.6346672E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -2080374784
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :17248.0:28210.0:52725.0:113383.0:205295.0:476525.0:968933.0:1843916.0:3764659.0:7470101.0 Result :1.4940995E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -2063597568
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :21885.0:37281.0:64121.0:166739.0:240370.0:452213.0:893917.0:1845876.0:3756388.0:7589246.0 Result :1.5068036E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -2046820352
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :22208.0:24853.0:48537.0:140976.0:247048.0:359696.0:860827.0:1630948.0:3249414.0:6765920.0 Result :1.3350427E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -2030043136
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7048.0:25763.0:94932.0:164708.0:317532.0:467146.0:936021.0:2090550.0:4030745.0:8296949.0 Result :1.6431394E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -2013265920
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :28170.0:42990.0:98388.0:175303.0:453526.0:848771.0:1747199.0:3319958.0:6641741.0:1.331424E7 Result :2.6670286E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1996488704
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :19835.0:41282.0:42319.0:132362.0:189422.0:582112.0:1037519.0:2065038.0:4141868.0:8117641.0 Result :1.6369398E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1979711488
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :37908.0:35154.0:70086.0:180281.0:254711.0:551826.0:1229304.0:2199181.0:4624101.0:9256051.0 Result :1.8438603E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1962934272
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :24390.0:19130.0:54119.0:91950.0:190492.0:397813.0:877737.0:1761877.0:3472124.0:6837849.0 Result :1.3727481E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1946157056
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :31109.0:20140.0:47475.0:104021.0:198593.0:462075.0:896913.0:1720481.0:3564769.0:7049693.0 Result :1.4095269E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1929379840
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10371.0:33327.0:42277.0:108866.0:185630.0:388943.0:853687.0:1670384.0:3239892.0:6498960.0 Result :1.3032337E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1912602624
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :15023.0:26056.0:46944.0:115949.0:234707.0:363209.0:847136.0:1636184.0:3205544.0:6621541.0 Result :1.3112293E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1895825408
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :17946.0:42661.0:108127.0:273090.0:395577.0:856091.0:1792916.0:3510673.0:7074620.0:1.4158247E7 Result :2.8229948E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1879048192
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :31120.0:37200.0:84187.0:137256.0:348292.0:561762.0:1174461.0:2398650.0:4757403.0:9560394.0 Result :1.9090725E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1862270976
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :15681.0:20601.0:45710.0:129680.0:273602.0:500083.0:1082987.0:2067324.0:4079668.0:8307009.0 Result :1.6522345E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1845493760
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7242.0:32802.0:48425.0:109185.0:189307.0:471924.0:901901.0:1766839.0:3574014.0:7108201.0 Result :1.420984E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1828716544
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :28177.0:59058.0:74710.0:144794.0:290690.0:702735.0:1371740.0:2660693.0:5345733.0:1.0657592E7 Result :2.1335922E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1811939328
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11140.0:23424.0:34792.0:59850.0:166368.0:363586.0:759401.0:1437851.0:2861164.0:5756241.0 Result :1.1473817E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1795162112
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :27915.0:23746.0:56189.0:88676.0:297608.0:502131.0:1007645.0:2087262.0:4050130.0:8127832.0 Result :1.6269134E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1778384896
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :17350.0:79627.0:99346.0:233550.0:474451.0:893884.0:1803489.0:3623116.0:7282976.0:1.4556612E7 Result :2.9064401E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1761607680
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :12618.0:41820.0:72993.0:118144.0:265772.0:575044.0:1082457.0:2183288.0:4392532.0:8739021.0 Result :1.7483689E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1744830464
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :15922.0:33049.0:76854.0:87074.0:254209.0:469146.0:902753.0:1885814.0:3722397.0:7438181.0 Result :1.4885399E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1728053248
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1103.0:9964.0:52034.0:63103.0:143442.0:294259.0:562487.0:1119578.0:2247637.0:4480636.0 Result :8974243.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1711276032
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10081.0:16180.0:28294.0:72865.0:154979.0:279534.0:619681.0:1221822.0:2387786.0:4827305.0 Result :9618527.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1694498816
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :13303.0:23181.0:46733.0:70268.0:144260.0:295517.0:598936.0:1205526.0:2395109.0:4799022.0 Result :9591855.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1677721600
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :13030.0:21859.0:32450.0:76377.0:181407.0:319110.0:656485.0:1309606.0:2589118.0:5212240.0 Result :1.0411682E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1660944384
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :27635.0:22260.0:45204.0:109937.0:209434.0:382971.0:803538.0:1635775.0:3228387.0:6430581.0 Result :1.2895722E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1644167168
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11291.0:29420.0:35337.0:71535.0:169492.0:332618.0:647509.0:1331983.0:2633376.0:5268901.0 Result :1.0531462E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1627389952
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :21139.0:33647.0:23630.0:81949.0:187983.0:392862.0:691753.0:1462994.0:2948019.0:5802374.0 Result :1.164635E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1610612736
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :15857.0:15214.0:40356.0:76776.0:143859.0:252359.0:553151.0:1109485.0:2190439.0:4407571.0 Result :8805067.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1593835520
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1538.0:22036.0:30216.0:70478.0:118759.0:262506.0:525702.0:1035237.0:2097178.0:4186618.0 Result :8350268.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1577058304
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :12087.0:10673.0:16742.0:39658.0:109079.0:194326.0:368717.0:765588.0:1522903.0:3033260.0 Result :6073033.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1560281088
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5366.0:6421.0:13858.0:36093.0:71514.0:134958.0:270502.0:551615.0:1093640.0:2188862.0 Result :4372829.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1543503872
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3300.0:15469.0:9557.0:32361.0:67628.0:151754.0:302036.0:589046.0:1168273.0:2341172.0 Result :4680596.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1526726656
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3658.0:7260.0:18662.0:37693.0:65808.0:122098.0:256903.0:505014.0:1020521.0:2062590.0 Result :4100207.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1509949440
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6695.0:7472.0:12260.0:31059.0:65007.0:129223.0:259664.0:502862.0:1022438.0:2044379.0 Result :4081059.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1493172224
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3096.0:10129.0:17065.0:42809.0:76999.0:132375.0:290695.0:575028.0:1141556.0:2304288.0 Result :4594040.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1476395008
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :971.0:5739.0:7817.0:22424.0:46899.0:93220.0:194112.0:366327.0:729608.0:1465595.0 Result :2932712.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1459617792
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3066.0:8658.0:16759.0:35718.0:71792.0:127701.0:245589.0:518387.0:1026969.0:2058994.0 Result :4113633.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1442840576
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7950.0:4936.0:16048.0:29492.0:51845.0:123161.0:236810.0:476749.0:942989.0:1879883.0 Result :3769863.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1426063360
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5014.0:6312.0:9850.0:22624.0:45166.0:110560.0:201516.0:397418.0:791530.0:1583578.0 Result :3173568.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1409286144
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2620.0:10659.0:15180.0:30474.0:57120.0:111772.0:246061.0:494909.0:974649.0:1955718.0 Result :3899162.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1392508928
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6159.0:5686.0:28086.0:47391.0:87855.0:179788.0:358276.0:711421.0:1453691.0:2889644.0 Result :5767997.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1375731712
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2366.0:27182.0:41568.0:87656.0:172762.0:356795.0:712548.0:1376463.0:2777053.0:5578642.0 Result :1.1133035E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1358954496
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3549.0:29370.0:38274.0:73806.0:167583.0:313835.0:649018.0:1282440.0:2557713.0:5139075.0 Result :1.0254663E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1342177280
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5555.0:22143.0:51863.0:78728.0:165686.0:344124.0:688893.0:1350585.0:2708557.0:5429208.0 Result :1.0845342E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1325400064
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6014.0:18874.0:39408.0:93915.0:180993.0:313438.0:680047.0:1340909.0:2677131.0:5422266.0 Result :1.0772995E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1308622848
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :14696.0:15445.0:41938.0:95692.0:176777.0:337972.0:692616.0:1379987.0:2770962.0:5547525.0 Result :1.107361E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1291845632
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :18582.0:28777.0:31634.0:99121.0:192594.0:399932.0:766804.0:1575749.0:3133689.0:6214042.0 Result :1.2460924E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1275068416
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :9179.0:33218.0:34763.0:93653.0:153208.0:286340.0:604684.0:1193858.0:2418294.0:4863715.0 Result :9690912.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1258291200
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :4940.0:10055.0:15685.0:35448.0:63203.0:162547.0:285411.0:597327.0:1217687.0:2392500.0 Result :4784803.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1241513984
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8745.0:20400.0:21852.0:63804.0:128083.0:289692.0:692500.0:1412093.0:2612511.0:5149529.0 Result :1.0399209E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1224736768
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :17774.0:21015.0:49911.0:103057.0:231341.0:272673.0:643913.0:1360989.0:2782540.0:5623972.0 Result :1.1107185E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1207959552
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :8637.0:19011.0:20282.0:92145.0:155640.0:321985.0:646214.0:1327730.0:2619829.0:5234455.0 Result :1.0445928E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1191182336
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :21851.0:41047.0:75193.0:138182.0:253922.0:499000.0:1113050.0:2114289.0:4116220.0:8346297.0 Result :1.6719051E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1174405120
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :25639.0:34375.0:52730.0:112847.0:304150.0:457847.0:1087900.0:2117475.0:4104568.0:8370726.0 Result :1.6668257E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1157627904
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7873.0:30002.0:42422.0:81973.0:189810.0:563193.0:736942.0:1540100.0:3217080.0:6256205.0 Result :1.26656E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1140850688
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :22258.0:41714.0:51964.0:156576.0:242601.0:707578.0:1120754.0:1895407.0:4361984.0:8384839.0 Result :1.6985675E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1124073472
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :18702.0:33370.0:65442.0:143923.0:271631.0:522694.0:895190.0:2001303.0:3920169.0:8137781.0 Result :1.6010205E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1107296256
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :18028.0:25065.0:52582.0:133283.0:222826.0:470319.0:1120663.0:2053364.0:4055734.0:8088772.0 Result :1.6240636E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1090519040
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11661.0:24840.0:56726.0:66900.0:139218.0:313933.0:640442.0:1224073.0:2441880.0:4896819.0 Result :9816492.0
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1073741824
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3077.0:24399.0:52389.0:136253.0:199538.0:409411.0:867632.0:1655927.0:3365532.0:6720062.0 Result :1.343422E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1056964608
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :1193.0:21884.0:56124.0:122953.0:196961.0:360718.0:710010.0:1504394.0:2965732.0:5976804.0 Result :1.1916773E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1040187392
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11421.0:17304.0:38283.0:70816.0:141285.0:376662.0:900259.0:1593086.0:3264603.0:6372129.0 Result :1.2785848E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1023410176
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :20029.0:58893.0:42546.0:121631.0:251558.0:354212.0:805011.0:1643126.0:3353407.0:6711987.0 Result :1.33624E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -1006632960
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :6951.0:31159.0:50825.0:95708.0:198368.0:437970.0:813683.0:1675555.0:3382480.0:6664916.0 Result :1.3357615E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -989855744
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :2654.0:39849.0:48797.0:80796.0:176474.0:414115.0:958149.0:1712234.0:3563832.0:7015386.0 Result :1.4012286E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -973078528
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :23182.0:26945.0:75096.0:101050.0:234472.0:459915.0:920450.0:1807127.0:3738261.0:7463096.0 Result :1.4849594E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -956301312
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :20427.0:30679.0:83310.0:113462.0:225304.0:470699.0:1074728.0:2041493.0:3984269.0:8116958.0 Result :1.6161329E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -939524096
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :15144.0:20839.0:33773.0:110614.0:157205.0:302747.0:680898.0:1329080.0:2640151.0:5315874.0 Result :1.0606325E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -922746880
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :19039.0:15400.0:58846.0:162672.0:300356.0:527318.0:1041699.0:2066755.0:4085496.0:8313917.0 Result :1.6591498E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -905969664
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :17817.0:45729.0:38747.0:138754.0:265459.0:481232.0:896621.0:1946973.0:3861585.0:7709713.0 Result :1.540263E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -889192448
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :11891.0:43559.0:42257.0:99349.0:221081.0:427764.0:972524.0:1782040.0:3633095.0:7224680.0 Result :1.445824E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -872415232
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :10576.0:50977.0:95798.0:184290.0:332592.0:850842.0:1421759.0:3134314.0:6148339.0:1.2100136E7 Result :2.4329623E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -855638016
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :24926.0:26807.0:72346.0:212233.0:404751.0:592564.0:1435267.0:2720616.0:5404007.0:1.1094884E7 Result :2.1988401E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -838860800
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7051.0:23257.0:85232.0:107129.0:272341.0:444494.0:1018338.0:2145110.0:4130063.0:8251575.0 Result :1.648459E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -822083584
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :5962.0:32879.0:17591.0:99897.0:253353.0:407947.0:838945.0:1679293.0:3261161.0:6614137.0 Result :1.3211165E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -805306368
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7231.0:21986.0:51564.0:89753.0:168586.0:294112.0:638574.0:1266479.0:2586458.0:5179519.0 Result :1.0304262E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -788529152
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :3793.0:19526.0:63057.0:85581.0:186785.0:423699.0:833427.0:1582339.0:3324707.0:6454825.0 Result :1.2977739E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -771751936
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :7429.0:25106.0:60294.0:115267.0:221523.0:355499.0:781121.0:1558578.0:3085631.0:6265628.0 Result :1.2476076E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -754974720
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :30111.0:63334.0:133175.0:224611.0:418396.0:823020.0:1699827.0:3365308.0:6791132.0:1.359761E7 Result :2.7146524E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -738197504
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :30339.0:49753.0:90076.0:189130.0:292825.0:665171.0:1336606.0:2689035.0:5415951.0:1.074452E7 Result :2.1503406E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -721420288
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :18963.0:35720.0:79892.0:116445.0:237023.0:505992.0:1034462.0:2047341.0:4135104.0:8278361.0 Result :1.6489303E7
+Dec 3, 2014 6:36:09 PM FingerPrint scan
+INFO: Processing chunk : -704643072
+Dec 3, 2014 6:36:09 PM FingerPrint computeMagnitude
+INFO: FingerPrint: :18816.0:41429.0:44737.0:89667.0:150682.0:352965.0:677030.0:1385196.0:2814580.0:5551536.0 Result :1.1126638E7
